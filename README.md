@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Hello! Welcome to my website. 
 
-You can use the [editor on GitHub](https://github.com/sunnyyan97/sunnyyan97.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+My name is Sunny Yan. I'm an aspiring data scientist that is passionate about telling stories through data. My main skills are working with Python and the Pydata stack (numpy, pandas, scikit-learn) for data analysis, but I am also proficient using SQL and R. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I graduated with a degree in Political Science from Columbia University in 2019 before starting my career in Software Sales. During these two experiences I gained a solid understanding of basic statistics and also saw how companies fail to leverage their own business data into business insights and strategy improvements. I knew that this was something that I was interested in improving and working with, which drew me into the field of data science. 
 
-### Markdown
+I started my Data Science Journey by completing the IBM Data Science Professional Certificate on Coursera, this series of courses gave me a great introduction to the field. It taught me how to analyze datasets using python, but more importantly, how to think like a data scientist. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+After completing the course I decided to continue my learning journey by pursuing another Data Science certificate from Dataquest. The reason I chose Dataquest is because they emphasize project-based learning which is something that I lacked. Through the course I was able to build out a wide range of Data Science projects, helping further my development as a Data Scientist. 
 
-```markdown
-Syntax highlighted code block
+With this experience I was able to begin working on my own data science projects from scratch. This website is a portfolio of the projects that I'm most proud of, featuring projects from my courses and personal projects. 
 
-# Header 1
-## Header 2
-### Header 3
+### **Coursera Capstone Project- Boston Neighborhood Analysis**
+[<img src="https://raw.githubusercontent.com/bigsunn97/Coursera_Capstone/main/images/Screen%20Shot%202021-02-02%20at%202.55.52%20PM.png">](https://github.com/bigsunn97/Coursera_Capstone)
 
-- Bulleted
-- List
+### **NBA EDA/Data Visualization Project**
 
-1. Numbered
-2. List
+[<img src="https://raw.githubusercontent.com/bigsunn97/NBA-Data-Viz-Mini-Project/main/Images/PPG%20Home%20and%20Away.png">](https://github.com/bigsunn97/NBA-Data-Viz-Mini-Project)
+[<img src="https://raw.githubusercontent.com/bigsunn97/NBA-Data-Viz-Mini-Project/main/Images/Lonzo%20Heatmap.png">](https://raw.githubusercontent.com/bigsunn97/NBA-Data-Viz-Mini-Project/main/Images/Lonzo%20Heatmap.png)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sunnyyan97/sunnyyan97.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### **Dataquest Project: Fandango Movie Ratings**
+[<img src="https://raw.githubusercontent.com/bigsunn97/bigsunn97.github.io/main/fandango.png">](http://google.com.au/)
