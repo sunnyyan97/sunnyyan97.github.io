@@ -18,5 +18,3 @@ With this experience I was able to begin working on my own data science projects
 [<img src="https://raw.githubusercontent.com/bigsunn97/NBA-Data-Viz-Mini-Project/main/Images/PPG%20Home%20and%20Away.png">](https://github.com/bigsunn97/NBA-Data-Viz-Mini-Project)
 [<img src="https://raw.githubusercontent.com/bigsunn97/NBA-Data-Viz-Mini-Project/main/Images/Lonzo%20Heatmap.png">](https://raw.githubusercontent.com/bigsunn97/NBA-Data-Viz-Mini-Project/main/Images/Lonzo%20Heatmap.png)
 
-### **Dataquest Project: Fandango Movie Ratings**
-[<img src="https://raw.githubusercontent.com/bigsunn97/bigsunn97.github.io/main/fandango.png">](http://google.com.au/)
