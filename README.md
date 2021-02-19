@@ -5,6 +5,6 @@
 
 ### **NBA EDA/Data Visualization Project**
 
-[<img src="https://raw.githubusercontent.com/bigsunn97/NBA-Data-Viz-Mini-Project/main/Images/PPG%20Home%20and%20Away.png">](https://github.com/bigsunn97/NBA-Data-Viz-Mini-Project)
-[<img src="https://raw.githubusercontent.com/bigsunn97/NBA-Data-Viz-Mini-Project/main/Images/Lonzo%20Heatmap.png">](https://raw.githubusercontent.com/bigsunn97/NBA-Data-Viz-Mini-Project/main/Images/Lonzo%20Heatmap.png)
+[<img src="https://raw.githubusercontent.com/sunnyyan97/sunnyyan97.github.io/main/nba%20dataviz.001.jpeg">](https://github.com/sunnyyan97/NBA-EDA-and-Data-Visualization-Project)
+
 
