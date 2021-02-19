@@ -5,6 +5,6 @@
 
 ### **NBA EDA/Data Visualization Project**
 
-[<img src="https://raw.githubusercontent.com/sunnyyan97/sunnyyan97.github.io/main/nba%20dataviz.001.jpeg">](https://github.com/sunnyyan97/NBA-EDA-and-Data-Visualization-Project)
+[<img src="https://raw.githubusercontent.com/sunnyyan97/sunnyyan97.github.io/main/Regional%204.001.jpeg">](https://github.com/sunnyyan97/NBA-EDA-and-Data-Visualization-Project)
 
 
