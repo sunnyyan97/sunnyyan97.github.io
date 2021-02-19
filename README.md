@@ -11,3 +11,4 @@
 
 [<img src="https://raw.githubusercontent.com/sunnyyan97/sunnyyan97.github.io/main/nychighschool.001.jpeg">](https://github.com/sunnyyan97/NYC-High-Schools)
 
+### **Analyzing CIA Factbook Data with SQL**(https://github.com/sunnyyan97/CIA-Factbook-Analysis-with-SQL)
