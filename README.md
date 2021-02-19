@@ -7,7 +7,7 @@
 
 [<img src="https://raw.githubusercontent.com/sunnyyan97/sunnyyan97.github.io/main/Regional%204.001.jpeg">](https://github.com/sunnyyan97/NBA-EDA-and-Data-Visualization-Project)
 
-### **Dataquest Project- NYC High Schools SAT Scores
+### **Dataquest Project- NYC High Schools SAT Scores**
 
 [<img src="https://raw.githubusercontent.com/sunnyyan97/sunnyyan97.github.io/main/nychighschool.001.jpeg">]
 
