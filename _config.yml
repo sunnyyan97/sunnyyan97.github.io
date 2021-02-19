@@ -1,4 +1,18 @@
 theme: jekyll-theme-minimal
 title: Sunny Yan's Data Science Portfolio
 logo: "https://raw.githubusercontent.com/sunnyyan97/bigsunn97.github.io/main/1587652621092.jpg"
-description: Aspiring data scientist with interests in Sports, Politics and Finance. 
+description: 
+  My name is Sunny Yan. I’m an aspiring data scientist that is passionate about telling stories through data. My main skills are working with Python 
+  and the Pydata stack (numpy, pandas, scikit-learn) for data analysis, but I am also proficient using SQL and R. 
+  
+  I graduated with a degree in Political Science from Columbia University in 2019 before starting my career in Software Sales. During this time I realized 
+  how in
+  
+  I started my Data Science Journey by completing the IBM Data Science Professional Certificate on Coursera, this series of courses gave me a 
+  great introduction to the field. Afterwards, I began pursuing another Data Science certificate from Dataquest. 
+  
+  The reason I chose Dataquest is because they emphasize project-based learning. Through the course I was able to build out a wide range 
+  of Data Science projects, helping further my development. With this experience I was able to begin working on my own data science projects from scratch. 
+  This website is a portfolio of the projects that I’m most proud of, featuring projects from my courses and personal projects. 
+  
+  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
