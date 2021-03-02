@@ -20,6 +20,9 @@
 ### **Project- Investigating Fandango Ratings**
 [<img src="https://raw.githubusercontent.com/sunnyyan97/sunnyyan97.github.io/main/Screen%20Shot%202021-03-02%20at%2012.05.25%20PM.png">](https://github.com/sunnyyan97/Data-Science-Portfolio/blob/main/Investigating%20Fandango%20Movie%20Ratings.ipynb)
 
+### **FiveThirtyEight Graph Exercise**
+[<img src="https://github.com/sunnyyan97/538-Graph-Exercise/blob/main/download.png"(https://github.com/sunnyyan97/538-Graph-Exercise)
+
 [Project: Analyzing CIA Factbook Data with SQL](https://github.com/sunnyyan97/CIA-Factbook-Analysis-with-SQL)
 <br><br>
 [Project: Exploring Hacker News Posts with Python](https://github.com/sunnyyan97/Analyzing-Hacker-News-Posts)
