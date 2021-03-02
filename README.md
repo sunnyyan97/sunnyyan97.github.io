@@ -18,7 +18,7 @@
 [<img src="https://raw.githubusercontent.com/sunnyyan97/Analyzing-Lottery-Probabilities/main/Screen%20Shot%202021-03-01%20at%202.06.14%20PM.png">](https://github.com/sunnyyan97/Analyzing-Lottery-Probabilities)
 
 ### **Project- Investigating Fandango Ratings**
-[<img src="https://raw.githubusercontent.com/sunnyyan97/sunnyyan97.github.io/main/Fandango.001.jpeg">](https://github.com/sunnyyan97/Data-Science-Portfolio/blob/main/Investigating%20Fandango%20Movie%20Ratings.ipynb)
+[<img src="https://raw.githubusercontent.com/sunnyyan97/sunnyyan97.github.io/main/Screen%20Shot%202021-03-02%20at%2012.05.25%20PM.png">](https://github.com/sunnyyan97/Data-Science-Portfolio/blob/main/Investigating%20Fandango%20Movie%20Ratings.ipynb)
 
 [Project: Analyzing CIA Factbook Data with SQL](https://github.com/sunnyyan97/CIA-Factbook-Analysis-with-SQL)
 <br><br>
