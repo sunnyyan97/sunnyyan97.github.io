@@ -17,9 +17,6 @@
 ### **Project- Analyzing Lottery Probabilities**
 [<img src="https://raw.githubusercontent.com/sunnyyan97/Analyzing-Lottery-Probabilities/main/Screen%20Shot%202021-03-01%20at%202.06.14%20PM.png">](https://github.com/sunnyyan97/Analyzing-Lottery-Probabilities)
 
-### **Project- Investigating Fandango Ratings**
-[<img src="https://raw.githubusercontent.com/sunnyyan97/sunnyyan97.github.io/main/Screen%20Shot%202021-03-02%20at%2012.05.25%20PM.png">](https://github.com/sunnyyan97/Data-Science-Portfolio/blob/main/Investigating%20Fandango%20Movie%20Ratings.ipynb)
-
 ### **FiveThirtyEight Graph Exercise**
 [<img src="https://raw.githubusercontent.com/sunnyyan97/538-Graph-Exercise/main/download.png">](https://github.com/sunnyyan97/538-Graph-Exercise)
 
