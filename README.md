@@ -14,9 +14,6 @@
 ### **Project- Answering Business Questions with SQL**
 [<img src="https://raw.githubusercontent.com/sunnyyan97/Answering-Business-Questions-with-SQL/main/Screen%20Shot%202021-02-19%20at%202.59.04%20AM.png">](https://github.com/sunnyyan97/Answering-Business-Questions-with-SQL)
 
-### **Project- Analyzing Lottery Probabilities**
-[<img src="https://raw.githubusercontent.com/sunnyyan97/Analyzing-Lottery-Probabilities/main/Screen%20Shot%202021-03-01%20at%202.06.14%20PM.png">](https://github.com/sunnyyan97/Analyzing-Lottery-Probabilities)
-
 ### **FiveThirtyEight Graph Exercise**
 [<img src="https://raw.githubusercontent.com/sunnyyan97/538-Graph-Exercise/main/download.png">](https://github.com/sunnyyan97/538-Graph-Exercise)
 
