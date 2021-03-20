@@ -14,6 +14,9 @@
 ### **Project- Answering Business Questions with SQL**
 [<img src="https://raw.githubusercontent.com/sunnyyan97/Answering-Business-Questions-with-SQL/main/Screen%20Shot%202021-02-19%20at%202.59.04%20AM.png">](https://github.com/sunnyyan97/Answering-Business-Questions-with-SQL)
 
+### **London Bus Safety Data Visualization**
+<img src=https://github.com/sunnyyan97/sunnyyan97.github.io/blob/main/Screen%20Shot%202021-03-20%20at%2012.01.45%20AM.png">
+
 ### **FiveThirtyEight Graph Exercise**
 [<img src="https://raw.githubusercontent.com/sunnyyan97/538-Graph-Exercise/main/download.png">](https://github.com/sunnyyan97/538-Graph-Exercise)
 
