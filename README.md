@@ -24,7 +24,7 @@
 <br><br>
 [Project: Exploring Hacker News Posts with Python](https://github.com/sunnyyan97/Analyzing-Hacker-News-Posts)
 
-## **Miscellaneous
+## **Miscellaneous**
 
 ### **IBM Data Science Capstone Project- Boston Neighborhood Analysis**
 [<img src="https://raw.githubusercontent.com/sunnyyan97/Coursera_Capstone/main/images/Screen%20Shot%202021-03-05%20at%201.56.17%20PM.png">](https://github.com/bigsunn97/Coursera_Capstone)
