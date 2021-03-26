@@ -1,5 +1,7 @@
 # [Projects](https://github.com/sunnyyan97/Data-Science-Portfolio)
 
+## [**Tableau Projects**](https://public.tableau.com/profile/sunny.yan7263#!/)
+
 ### **Tableau Project- London Bus Safety**
 [<img src="https://raw.githubusercontent.com/sunnyyan97/sunnyyan97.github.io/main/Dashboard%202%20(2).png">](https://public.tableau.com/views/LondonBusSafety_16166872675440/Dashboard2?:language=en&:display_count=y&:origin=viz_share_link)
 
