@@ -3,6 +3,9 @@
 ### **Tableau Project- London Bus Safety**
 [<img src="https://raw.githubusercontent.com/sunnyyan97/sunnyyan97.github.io/main/Dashboard%202%20(2).png">](https://public.tableau.com/views/LondonBusSafety_16166872675440/Dashboard2?:language=en&:display_count=y&:origin=viz_share_link)
 
+### **Tableau Project- US State Fiscal Analysis**
+[<img src="https://raw.githubusercontent.com/sunnyyan97/sunnyyan97.github.io/main/US%20Fiscal%20Analysis.png">](https://public.tableau.com/profile/sunny.yan7263#!/vizhome/U_SStateFiscalAnalysis/Dashboard1)
+
 ### **Coursera Capstone Project- Boston Neighborhood Analysis**
 [<img src="https://raw.githubusercontent.com/sunnyyan97/Coursera_Capstone/main/images/Screen%20Shot%202021-03-05%20at%201.56.17%20PM.png">](https://github.com/bigsunn97/Coursera_Capstone)
 
