@@ -8,12 +8,7 @@
 ### **Tableau Project- US State Fiscal Analysis**
 [<img src="https://raw.githubusercontent.com/sunnyyan97/sunnyyan97.github.io/main/US%20Fiscal%20Analysis.png">](https://public.tableau.com/profile/sunny.yan7263#!/vizhome/U_SStateFiscalAnalysis/Dashboard1)
 
-### **Coursera Capstone Project- Boston Neighborhood Analysis**
-[<img src="https://raw.githubusercontent.com/sunnyyan97/Coursera_Capstone/main/images/Screen%20Shot%202021-03-05%20at%201.56.17%20PM.png">](https://github.com/bigsunn97/Coursera_Capstone)
-
-### **NBA EDA/Data Visualization Project**
-
-[<img src="https://raw.githubusercontent.com/sunnyyan97/sunnyyan97.github.io/main/Regional%204.001.jpeg">](https://github.com/sunnyyan97/NBA-EDA-and-Data-Visualization-Project)
+## [**Dataquest Projects**](https://github.com/sunnyyan97/Data-Science-Portfolio)
 
 ### **Project- Analyzing NYC High Schools SAT Scores**
 
@@ -28,3 +23,14 @@
 [Project: Analyzing CIA Factbook Data with SQL](https://github.com/sunnyyan97/CIA-Factbook-Analysis-with-SQL)
 <br><br>
 [Project: Exploring Hacker News Posts with Python](https://github.com/sunnyyan97/Analyzing-Hacker-News-Posts)
+
+## **Miscellaneous
+
+### **IBM Data Science Capstone Project- Boston Neighborhood Analysis**
+[<img src="https://raw.githubusercontent.com/sunnyyan97/Coursera_Capstone/main/images/Screen%20Shot%202021-03-05%20at%201.56.17%20PM.png">](https://github.com/bigsunn97/Coursera_Capstone)
+
+### **NBA EDA/Data Visualization Project**
+
+[<img src="https://raw.githubusercontent.com/sunnyyan97/sunnyyan97.github.io/main/Regional%204.001.jpeg">](https://github.com/sunnyyan97/NBA-EDA-and-Data-Visualization-Project)
+
+
