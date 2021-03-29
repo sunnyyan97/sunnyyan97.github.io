@@ -1,6 +1,6 @@
 # [Projects](https://github.com/sunnyyan97/Data-Science-Portfolio)
 
-## [**Tableau Projects**](https://public.tableau.com/profile/sunny.yan7263#!/)
+## [Tableau Projects](https://public.tableau.com/profile/sunny.yan7263#!/)
 --------------------------
 
 ### **Tableau Project- London Bus Safety**
