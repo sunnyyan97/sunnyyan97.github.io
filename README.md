@@ -9,7 +9,7 @@
 ### **Tableau Project- US State Fiscal Analysis**
 [<img src="https://raw.githubusercontent.com/sunnyyan97/sunnyyan97.github.io/main/US%20Fiscal%20Analysis.png">](https://public.tableau.com/profile/sunny.yan7263#!/vizhome/U_SStateFiscalAnalysis/Dashboard1)
 
-## [**Dataquest Projects**](https://github.com/sunnyyan97/Data-Science-Portfolio)
+## [Dataquest Projects](https://github.com/sunnyyan97/Data-Science-Portfolio)
 ----------------------------
 
 ### **Project- Analyzing NYC High Schools SAT Scores**
