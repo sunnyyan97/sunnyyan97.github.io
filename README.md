@@ -1,6 +1,4 @@
-# [Projects](https://github.com/sunnyyan97/Data-Science-Portfolio)
-
-## [Tableau Projects](https://public.tableau.com/profile/sunny.yan7263#!/)
+# [Tableau Projects](https://public.tableau.com/profile/sunny.yan7263#!/)
 --------------------------
 
 ### **US State Fiscal Analysis**
@@ -13,7 +11,7 @@
 [<img src="https://raw.githubusercontent.com/sunnyyan97/sunnyyan97.github.io/main/Dashboard%202%20(2).png">](https://public.tableau.com/views/LondonBusSafety_16166872675440/Dashboard2?:language=en&:display_count=y&:origin=viz_share_link)
 
 
-## [Dataquest Projects](https://github.com/sunnyyan97/Data-Science-Portfolio)
+# [Python/SQL Projects](https://github.com/sunnyyan97/Data-Science-Portfolio)
 ----------------------------
 
 ### **Project- Analyzing NYC High Schools SAT Scores**
@@ -29,9 +27,6 @@
 [Project: Analyzing CIA Factbook Data with SQL](https://github.com/sunnyyan97/CIA-Factbook-Analysis-with-SQL)
 <br><br>
 [Project: Exploring Hacker News Posts with Python](https://github.com/sunnyyan97/Analyzing-Hacker-News-Posts)
-
-## **Miscellaneous**
----------------------
 
 ### **IBM Data Science Capstone Project- Boston Neighborhood Analysis**
 [<img src="https://raw.githubusercontent.com/sunnyyan97/Coursera_Capstone/main/images/Screen%20Shot%202021-03-05%20at%201.56.17%20PM.png">](https://github.com/bigsunn97/Coursera_Capstone)
