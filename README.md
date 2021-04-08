@@ -5,7 +5,7 @@
 [<img src="https://raw.githubusercontent.com/sunnyyan97/sunnyyan97.github.io/main/US%20Fiscal%20Analysis.png">](https://public.tableau.com/profile/sunny.yan7263#!/vizhome/U_SStateFiscalAnalysis/Dashboard1)
 
 ### **Python Data Cleaning Project- Analyzing NYC High Schools SAT Scores and Demographic Factors**
-[<img src="https://raw.githubusercontent.com/sunnyyan97/sunnyyan97.github.io/main/nychighschool.001.jpeg">](https://github.com/sunnyyan97/NYC-High-Schools)
+[<img src="https://raw.githubusercontent.com/sunnyyan97/sunnyyan97.github.io/main/nychighschool.001.jpeg">](https://raw.githubusercontent.com/sunnyyan97/sunnyyan97.github.io/main/_layouts/NYC%20SAT%20Scores.png)
 
 ### **Tableau Dashboard- UK Exports After Brexit**
 [<img src="https://raw.githubusercontent.com/sunnyyan97/sunnyyan97.github.io/main/_layouts/UK%20Exports.png">](https://public.tableau.com/views/UKExports_16170347923990/Dashboard1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)
