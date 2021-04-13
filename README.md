@@ -1,6 +1,6 @@
 # [Projects](https://github.com/sunnyyan97/Data-Science-Portfolio)
 --------------------------
-### **Tableau Dashboard- Finding Under-Performing Subcategories of Superstore
+### **Tableau Dashboard- Finding Under-Performing Subcategories of Superstore**
 [<img src="https://raw.githubusercontent.com/sunnyyan97/sunnyyan97.github.io/main/_layouts/Dashboard%201%20(1).png">](https://public.tableau.com/views/SuperstoreSub-CategorySalesAnalysis/Dashboard1?:language=en&:display_count=y&:origin=viz_share_link)
 
 ### **Tableau Dashboard- US State Fiscal Analysis**
