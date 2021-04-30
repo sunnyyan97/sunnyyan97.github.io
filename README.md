@@ -1,7 +1,7 @@
 # [Projects](https://github.com/sunnyyan97/Data-Science-Portfolio)
 --------------------------
 ### **Tableau Dashboard- Superstore- Sales vs. Profit Analysis**
-[<img src="https://raw.githubusercontent.com/sunnyyan97/sunnyyan97.github.io/main/_layouts/Dashboard%201%20(2).png">]
+<img src="https://raw.githubusercontent.com/sunnyyan97/sunnyyan97.github.io/main/_layouts/Dashboard%201%20(2).png">
 (https://public.tableau.com/profile/sunny.yan7263#!/vizhome/Superstore-Salesvs_ProfitAnalysis/Dashboard1)
 
 ### **Tableau Dashboard- Finding Under-Performing Subcategories of Superstore**
